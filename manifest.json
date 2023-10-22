@@ -3,10 +3,7 @@
     "name": "YouTube Infinite Play",
     "version": "1.0",
     "description": "Automatically scrolls YouTube every 20 minutes.",
-    "permissions": [
-      "activeTab",
-      "storage"
-    ],
+    "permissions": ["activeTab"],
     "action": {
       "default_icon": "icon.png"
     },
